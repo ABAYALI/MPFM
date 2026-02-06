@@ -2,6 +2,8 @@
 Projective Informational Framework (MPFM)
 
 # Projective Informational Framework (MPFM)
+# MPFM does not claim to compute the universe — it claims to explain why the universe cannot be fully computed, and what nevertheless remains stable and observable.
+
 
 
 **Authors:**  
