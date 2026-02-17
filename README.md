@@ -2,9 +2,9 @@
 Projective Spectral Formalissm for Emergent of Physics
 Definition:
 
-The MPFS model formalizes the emergence of observable 3D physics from a higher-dimensional superspace of raw information. Using a projection operator $\Pi$ and a spectral Laplacian $\Delta$, the model generates attractors corresponding to stable particles, atoms, and molecules. Emergent constants ($\Lambda$, #G$) and particle hierarchies arise naturally from spectral saturation, convexity, and global information minimization. This framework unifies quantum mechanics, cosmology, and information theory in a single mathematically consistent structure.
+The MPFS model formalizes the emergence of observable 3D physics from a higher-dimensional superspace of raw information. Using a projection operator $$\Pi$$ and a spectral Laplacian $\Delta$, the model generates attractors corresponding to stable particles, atoms, and molecules. Emergent constants ($\Lambda$, #G$) and particle hierarchies arise naturally from spectral saturation, convexity, and global information minimization. This framework unifies quantum mechanics, cosmology, and information theory in a single mathematically consistent structure.
 
-	Superspace ($\mathcal{S}$): raw information content.
+	Superspace ($$\mathcal{S}$$): raw information content.
 	Projection ($\Pi$): maps information to observable modes, with inherent non-fidelity.
 	Spectral structure ($\Delta$): Laplacian eigenmodes define scales of attractors.
 	Internal algebra ($\mathcal{A}$): encodes fermion families, chirality, and charge quantization.
