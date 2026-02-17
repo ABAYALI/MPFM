@@ -4,7 +4,7 @@ Projective Spectral Formalissm for Emergent of Physics
 
 Definition:
 
-The MPFS model formalizes the emergence of observable 3D physics from a higher-dimensional superspace of raw information. Using a projection operator $$\Pi$$ and a spectral Laplacian $$\Delta$$, the model generates attractors corresponding to stable particles, atoms, and molecules. Emergent constants ($$\Lambda$$, $$G$$) and particle hierarchies arise naturally from spectral saturation, convexity, and global information minimization. This framework unifies quantum mechanics, cosmology, and information theory in a single mathematically consistent structure.
+The MPFS model formalizes the emergence of observable 3D physics from a higher-dimensional superspace of raw information. Using a projection operator $$\Pi$$ and a spectral Laplacian $$\Delta$$, the model generates attractors corresponding to stable particles, atoms, and molecules. Emergent constants ($$\Lambda$$, $$G$$) and particle hierarchies arise naturally from spectral saturation, convexity, and global information minimization.
 
 	Superspace (𝒮): raw information content.
 	Projection (Π): maps information to observable modes, with inherent non-fidelity.
@@ -12,6 +12,8 @@ The MPFS model formalizes the emergence of observable 3D physics from a higher-d
 	Internal algebra (𝒜): encodes fermion families, chirality, and charge quantization.
 	Emergent constants: Λ, G, gᵢ, m_f derived from spectral saturation and entropic convexity.
 	Emergent time: parametrizes evolution along the gradient flow.
+
+# MPFS does not claim to compute the universe — it claims to explain why the universe cannot be fully computed, and what nevertheless remains stable and observable.
 
 
 
@@ -35,7 +37,7 @@ Asma BAYALI
 
 This repository contains the foundational documents of the Projective
 
-Informational Framework (MPFM), a structural framework in which geometry,
+Informational Framework (MPFS/MPFM), a structural framework in which geometry,
 
 time, and dynamics emerge from a non-faithful projection of information.
 
